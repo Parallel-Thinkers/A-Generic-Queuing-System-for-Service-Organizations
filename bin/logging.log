@@ -1,0 +1,89 @@
+2015-11-26 16:21:36 INFO  RequestGenerator:68 - client have requested for DEPOSIT...
+2015-11-26 16:21:36 INFO  ReceiverAdaptor:14 - token number1 Request DEPOSIT Assigned to server0
+2015-11-26 16:21:39 INFO  RequestGenerator:68 - client have requested for DEPOSIT...
+2015-11-26 16:21:39 INFO  ReceiverAdaptor:14 - token number2 Request DEPOSIT Assigned to server1
+2015-11-26 16:21:40 INFO  RequestGenerator:68 - client have requested for DD...
+2015-11-26 16:21:40 INFO  ReceiverAdaptor:14 - token number3 Request DD Assigned to server2
+2015-11-26 16:21:40 INFO  Server:32 - Request Processing Time at server number 0 is 4267 milliseconds
+2015-11-26 16:21:40 INFO  ReceiverAdaptor:14 - Token Number1 Request Completed on server number0
+2015-11-26 16:21:43 INFO  RequestGenerator:68 - client have requested for DEPOSIT...
+2015-11-26 16:21:43 INFO  ReceiverAdaptor:14 - token number4 Request DEPOSIT Assigned to server0
+2015-11-26 16:21:44 INFO  RequestGenerator:68 - client have requested for LOCKER...
+2015-11-26 16:21:44 INFO  ReceiverAdaptor:14 - REQUEST LOCKER FAILED !!......This Service is not available.
+2015-11-26 16:21:46 INFO  RequestGenerator:68 - client have requested for FD...
+2015-11-26 16:21:46 INFO  ReceiverAdaptor:14 - token number5 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.
+2015-11-26 16:21:48 INFO  RequestGenerator:68 - client have requested for LOCKER...
+2015-11-26 16:21:48 INFO  ReceiverAdaptor:14 - REQUEST LOCKER FAILED !!......This Service is not available.
+2015-11-26 16:21:49 INFO  Server:32 - Request Processing Time at server number 1 is 9968 milliseconds
+2015-11-26 16:21:49 INFO  ReceiverAdaptor:14 - Token Number2 Request Completed on server number1
+2015-11-26 16:21:49 INFO  ReceiverAdaptor:14 - token number5 Request FD... Assigned to server1
+2015-11-26 16:21:50 INFO  RequestGenerator:68 - client have requested for DD...
+2015-11-26 16:21:50 INFO  ReceiverAdaptor:14 - token number6 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.
+2015-11-26 16:21:53 INFO  RequestGenerator:68 - client have requested for DEPOSIT...
+2015-11-26 16:21:53 INFO  ReceiverAdaptor:14 - token number7 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.
+2015-11-26 16:21:54 INFO  Server:32 - Request Processing Time at server number 2 is 13753 milliseconds
+2015-11-26 16:21:54 INFO  ReceiverAdaptor:14 - Token Number3 Request Completed on server number2
+2015-11-26 16:21:54 INFO  ReceiverAdaptor:14 - token number6 Request DD... Assigned to server2
+2015-11-26 16:21:54 INFO  Server:32 - Request Processing Time at server number 1 is 5312 milliseconds
+2015-11-26 16:21:54 INFO  ReceiverAdaptor:14 - Token Number5 Request Completed on server number1
+2015-11-26 16:21:54 INFO  ReceiverAdaptor:14 - token number7 Request DEPOSIT... Assigned to server1
+2015-11-26 16:21:55 INFO  RequestGenerator:68 - client have requested for DEPOSIT...
+2015-11-26 16:21:55 INFO  ReceiverAdaptor:14 - token number8 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.
+2015-11-26 16:21:58 INFO  RequestGenerator:68 - client have requested for MONEYTRANSFER...
+2015-11-26 16:21:58 INFO  ReceiverAdaptor:14 - REQUEST MONEYTRANSFER FAILED !!......This Service is not available.
+2015-11-26 16:22:01 INFO  RequestGenerator:68 - client have requested for MONEYTRANSFER...
+2015-11-26 16:22:01 INFO  ReceiverAdaptor:14 - REQUEST MONEYTRANSFER FAILED !!......This Service is not available.
+2015-11-26 16:22:03 INFO  RequestGenerator:68 - client have requested for FD...
+2015-11-26 16:22:03 INFO  ReceiverAdaptor:14 - token number9 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.
+2015-11-26 16:22:04 INFO  RequestGenerator:68 - client have requested for RD...
+2015-11-26 16:22:04 INFO  RequestGenerator:68 - client have requested for FD...
+2015-11-26 16:22:04 INFO  ReceiverAdaptor:14 - token number10 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.
+2015-11-26 16:22:04 INFO  ReceiverAdaptor:14 - WAIT FOR SOMETIME............YOUR REQUEST WILL BE PROCESSED SOON!! AS MAX QUEUE LENGTH 3 REACHED
+2015-11-26 16:22:04 INFO  Server:32 - Request Processing Time at server number 2 is 10695 milliseconds
+2015-11-26 16:22:04 INFO  ReceiverAdaptor:14 - Token Number6 Request Completed on server number2
+2015-11-26 16:22:04 INFO  ReceiverAdaptor:14 - token number8 Request DEPOSIT... Assigned to server2
+2015-11-26 16:22:05 INFO  Server:32 - Request Processing Time at server number 0 is 22329 milliseconds
+2015-11-26 16:22:05 INFO  ReceiverAdaptor:14 - Token Number4 Request Completed on server number0
+2015-11-26 16:22:05 INFO  ReceiverAdaptor:14 - token number9 Request FD... Assigned to server0
+2015-11-26 16:22:06 INFO  RequestGenerator:68 - client have requested for FD...
+2015-11-26 16:22:06 INFO  RequestGenerator:68 - client have requested for RD...
+2015-11-26 16:22:06 INFO  ReceiverAdaptor:14 - token number11 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.
+2015-11-26 16:22:06 INFO  ReceiverAdaptor:14 - token number12 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.
+2015-11-26 16:22:09 INFO  RequestGenerator:68 - client have requested for ACCOUNTCREATION...
+2015-11-26 16:22:09 INFO  RequestGenerator:68 - client have requested for RD...
+2015-11-26 16:22:09 INFO  ReceiverAdaptor:14 - WAIT FOR SOMETIME............YOUR REQUEST WILL BE PROCESSED SOON!! AS MAX QUEUE LENGTH 3 REACHED
+2015-11-26 16:22:09 INFO  ReceiverAdaptor:14 - WAIT FOR SOMETIME............YOUR REQUEST WILL BE PROCESSED SOON!! AS MAX QUEUE LENGTH 3 REACHED
+2015-11-26 16:22:13 INFO  RequestGenerator:68 - client have requested for DD...
+2015-11-26 16:22:13 INFO  ReceiverAdaptor:14 - WAIT FOR SOMETIME............YOUR REQUEST WILL BE PROCESSED SOON!! AS MAX QUEUE LENGTH 3 REACHED
+2015-11-26 16:22:13 INFO  Server:32 - Request Processing Time at server number 2 is 9252 milliseconds
+2015-11-26 16:22:13 INFO  ReceiverAdaptor:14 - Token Number8 Request Completed on server number2
+2015-11-26 16:22:13 INFO  ReceiverAdaptor:14 - token number10 Request RD... Assigned to server2
+2015-11-26 16:22:14 INFO  RequestGenerator:68 - client have requested for FD...
+2015-11-26 16:22:14 INFO  ReceiverAdaptor:14 - token number13 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.
+2015-11-26 16:22:16 INFO  Server:32 - Request Processing Time at server number 1 is 21670 milliseconds
+2015-11-26 16:22:16 INFO  ReceiverAdaptor:14 - Token Number7 Request Completed on server number1
+2015-11-26 16:22:16 INFO  ReceiverAdaptor:14 - token number11 Request FD... Assigned to server1
+2015-11-26 16:22:17 INFO  RequestGenerator:68 - client have requested for ACCOUNTCREATION...
+2015-11-26 16:22:17 INFO  ReceiverAdaptor:14 - token number14 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.
+2015-11-26 16:22:20 INFO  RequestGenerator:68 - client have requested for MONEYTRANSFER...
+2015-11-26 16:22:20 INFO  ReceiverAdaptor:14 - REQUEST MONEYTRANSFER FAILED !!......This Service is not available.
+2015-11-26 16:22:22 INFO  RequestGenerator:68 - client have requested for RD...
+2015-11-26 16:22:22 INFO  ReceiverAdaptor:14 - WAIT FOR SOMETIME............YOUR REQUEST WILL BE PROCESSED SOON!! AS MAX QUEUE LENGTH 3 REACHED
+2015-11-26 16:22:25 INFO  RequestGenerator:68 - client have requested for ACCOUNTCREATION...
+2015-11-26 16:22:25 INFO  ReceiverAdaptor:14 - WAIT FOR SOMETIME............YOUR REQUEST WILL BE PROCESSED SOON!! AS MAX QUEUE LENGTH 3 REACHED
+2015-11-26 16:22:25 INFO  Server:32 - Request Processing Time at server number 0 is 20060 milliseconds
+2015-11-26 16:22:25 INFO  ReceiverAdaptor:14 - Token Number9 Request Completed on server number0
+2015-11-26 16:22:25 INFO  ReceiverAdaptor:14 - token number12 Request RD... Assigned to server0
+2015-11-26 16:22:26 INFO  Server:32 - Request Processing Time at server number 2 is 12444 milliseconds
+2015-11-26 16:22:26 INFO  ReceiverAdaptor:14 - Token Number10 Request Completed on server number2
+2015-11-26 16:22:26 INFO  ReceiverAdaptor:14 - token number13 Request FD... Assigned to server2
+2015-11-26 16:22:27 INFO  RequestGenerator:68 - client have requested for WITHDRAWAL...
+2015-11-26 16:22:27 INFO  ReceiverAdaptor:14 - token number15 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.
+2015-11-26 16:22:28 INFO  Server:32 - Request Processing Time at server number 1 is 12159 milliseconds
+2015-11-26 16:22:28 INFO  ReceiverAdaptor:14 - Token Number11 Request Completed on server number1
+2015-11-26 16:22:28 INFO  ReceiverAdaptor:14 - token number14 Request ACCOUNTCREATION... Assigned to server1
+2015-11-26 16:22:30 INFO  RequestGenerator:68 - client have requested for LOCKER...
+2015-11-26 16:22:30 INFO  ReceiverAdaptor:14 - REQUEST LOCKER FAILED !!......This Service is not available.
+2015-11-26 16:22:31 INFO  Server:32 - Request Processing Time at server number 1 is 3171 milliseconds
+2015-11-26 16:22:31 INFO  ReceiverAdaptor:14 - Token Number14 Request Completed on server number1
+2015-11-26 16:22:31 INFO  ReceiverAdaptor:14 - token number15 Request WITHDRAWAL... Assigned to server1

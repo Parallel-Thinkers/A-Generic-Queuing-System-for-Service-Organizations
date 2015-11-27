@@ -1,0 +1,14 @@
+{
+"Client":"TestHarness",
+"TotalServers":"3",
+"Server":{
+		"Id":["0","1","2"],
+		"Delay":["GAUSSIAN","UNIFORM","GAUSSIAN","GAUSSIAN","UNIFORM","CONSTANT","GAUSSIAN","UNIFORM","CONSTANT"]
+	},
+"RequestArrival":"POISSON",
+"Queue":{
+		"Type":"BOUNDED",
+		"Length":"3"
+	},
+"RequestType":["AccountCreation","Deposit","Withdrawal","DD","FD","RD"]
+}
