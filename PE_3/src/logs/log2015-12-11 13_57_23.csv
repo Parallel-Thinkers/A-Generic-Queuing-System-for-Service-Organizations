@@ -1,0 +1,53 @@
+token number4 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number5 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number6 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number4 Request DD... Assigned to server2,2
+token number7 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+token number5 Request ACCOUNTCREATION... Assigned to server2,2
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number6 Request FD... Assigned to server0,2
+token number9 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+token number7 Request WITHDRAWAL... Assigned to server1,2
+token number10 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+token number8 Request WITHDRAWAL... Assigned to server0,2
+token number9 Request RD... Assigned to server2,1
+token number11 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number12 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+token number10 Request WITHDRAWAL... Assigned to server0,2
+token number11 Request WITHDRAWAL... Assigned to server1,1
+token number13 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number14 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+token number12 Request DEPOSIT... Assigned to server2,2
+token number15 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number13 Request FD... Assigned to server2,2
+token number16 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+token number14 Request DEPOSIT... Assigned to server2,2
+token number17 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+token number15 Request FD... Assigned to server2,2
+token number18 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+WAIT FOR SOMETIME MAX QUEUE LENGTH REACHED,3
+token number16 Request WITHDRAWAL... Assigned to server0,2

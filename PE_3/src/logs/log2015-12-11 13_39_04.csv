@@ -1,0 +1,50 @@
+token number10 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number10 Request RD... Assigned to server0,0
+token number11 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number12 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number11 Request FD... Assigned to server2,1
+token number12 Request DEPOSIT... Assigned to server0,0
+token number13 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number13 Request DD... Assigned to server0,0
+token number14 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number14 Request DEPOSIT... Assigned to server0,0
+token number15 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number15 Request RD... Assigned to server0,0
+token number19 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number19 Request RD... Assigned to server0,0
+token number22 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number23 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number22 Request DD... Assigned to server0,1
+token number23 Request DD... Assigned to server2,0
+token number24 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number25 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number24 Request RD... Assigned to server0,1
+token number25 Request FD... Assigned to server0,0
+token number27 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number27 Request ACCOUNTCREATION... Assigned to server0,0
+token number37 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number37 Request FD... Assigned to server0,0
+token number40 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number41 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number42 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number40 Request FD... Assigned to server0,2
+token number41 Request WITHDRAWAL... Assigned to server2,1
+token number43 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number44 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number42 Request FD... Assigned to server0,2
+token number43 Request ACCOUNTCREATION... Assigned to server2,1
+token number44 Request RD... Assigned to server0,0
+token number47 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number48 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number47 Request DD... Assigned to server0,1
+token number49 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number50 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number48 Request RD... Assigned to server0,2
+token number51 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number51 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number49 Request FD... Assigned to server0,2
+token number50 Request ACCOUNTCREATION... Assigned to server0,1
+token number51 Request DEPOSIT... Assigned to server0,0
+token number52 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number53 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number52 Request DD... Assigned to server0,1

@@ -1,0 +1,27 @@
+{
+"Client":"TestHarness",
+"TotalServers":"3",
+"Server":{
+		"Id":["0","1","2"],
+		"Delay":[
+				{"name":"GAUSSIAN","mean":"2","sd":"3","sleep":"10000"},
+				{"name":"UNIFORM","lower":"2","upper":"3","sleep":"10000"},
+				{"name":"CONSTANT","value":"2","sleep":"10000"}
+				{"name":"GAUSSIAN","mean":"2","sd":"3","sleep":"10000"},
+				{"name":"UNIFORM","lower":"2","upper":"3","sleep":"10000"},
+				{"name":"CONSTANT","value":"2","sleep":"10000"}
+				{"name":"GAUSSIAN","mean":"2","sd":"3","sleep":"10000"},
+				{"name":"UNIFORM","lower":"2","upper":"3","sleep":"10000"},
+				{"name":"CONSTANT","value":"2","sleep":"10000"}
+				{"name":"GAUSSIAN","mean":"2","sd":"3","sleep":"10000"},
+				{"name":"UNIFORM","lower":"2","upper":"3","sleep":"10000"},
+				{"name":"CONSTANT","value":"2","sleep":"10000"}
+			]
+	},
+"RequestArrival":{"name":"POISSON","trial":"2","p":"3","sleep":"1000"},
+"Queue":{
+		"Type":"BOUNDED",
+		"Length":"3"
+	},
+"RequestType":["AccountCreation","Deposit","Withdrawal","DD","FD","RD"]
+}

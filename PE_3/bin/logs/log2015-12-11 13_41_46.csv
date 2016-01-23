@@ -1,0 +1,78 @@
+token number4 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number4 Request RD... Assigned to server1,0
+token number5 WAIT!!........All Server are Busy and 0 requests ahead of you in waiting queue.,0
+token number6 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number5 Request WITHDRAWAL... Assigned to server0,1
+token number7 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number8 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number6 Request FD... Assigned to server2,2
+token number9 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number7 Request DD... Assigned to server1,2
+token number10 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number10 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number8 Request DEPOSIT... Assigned to server1,2
+token number11 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number11 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number11 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number9 Request WITHDRAWAL... Assigned to server1,2
+token number10 Request DD... Assigned to server1,1
+token number12 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number13 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number13 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number13 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number13 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number11 Request WITHDRAWAL... Assigned to server0,2
+token number14 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number14 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number12 Request ACCOUNTCREATION... Assigned to server1,2
+token number15 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number15 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number13 Request DEPOSIT... Assigned to server2,2
+token number16 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number16 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number14 Request WITHDRAWAL... Assigned to server0,2
+token number15 Request ACCOUNTCREATION... Assigned to server0,1
+token number17 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number18 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number16 Request ACCOUNTCREATION... Assigned to server2,2
+token number19 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number19 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number19 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number17 Request FD... Assigned to server1,2
+token number20 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number20 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number20 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number18 Request FD... Assigned to server2,2
+token number21 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number19 Request DEPOSIT... Assigned to server0,2
+token number20 Request DEPOSIT... Assigned to server2,1
+token number22 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number23 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number23 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number21 Request WITHDRAWAL... Assigned to server0,2
+token number24 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number24 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number24 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number22 Request WITHDRAWAL... Assigned to server0,2
+token number23 Request WITHDRAWAL... Assigned to server2,1
+token number25 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number24 Request FD... Assigned to server1,1
+token number26 WAIT!!........All Server are Busy and 1 requests ahead of you in waiting queue.,1
+token number27 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number27 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number25 Request DD... Assigned to server1,2
+token number28 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
+token number28 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number28 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number28 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,3
+token number26 Request WITHDRAWAL... Assigned to server0,2
+token number29 WAIT!!........All Server are Busy and 2 requests ahead of you in waiting queue.,2
